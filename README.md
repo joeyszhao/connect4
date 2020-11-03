@@ -3,10 +3,10 @@ remake of the popular 2 player game connect 4 | cis 110 final project
 
 # Project
 
-Name: Joey Zhao
-PennKey: joeyzhao
-Recitation: 202
-Project choice: Connect 4
+    Name: Joey Zhao
+    PennKey: joeyzhao
+    Recitation: 202
+    Project choice: Connect 4
 
 #  Have you entered all help, collaboration, and outside resources in your help log?  If not, do so now. 
 
